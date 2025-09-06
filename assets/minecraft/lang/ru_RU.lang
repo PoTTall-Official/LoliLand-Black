@@ -1,0 +1,17 @@
+container.inventory=§r
+container.crafting=§r
+
+# Разное
+itemGroup.buildingBlocks=§fСтроительные блоки§r
+itemGroup.decorations=§fДекоративные блоки§r
+itemGroup.redstone=§fРедстоун-механика§r
+itemGroup.transportation=§fТранспорт§r
+itemGroup.misc=§fРазное§r
+itemGroup.search=§fПоиск§r
+itemGroup.food=§fЕда§r
+itemGroup.tools=§fИнструменты и приспособления§r
+itemGroup.combat=§fОружие и доспехи§r
+itemGroup.brewing=§fЗельеварение§r
+itemGroup.materials=§fИнгредиенты§r
+itemGroup.inventory=§fИнвентарь выживания§r
+itemGroup.hotbar=§fСохранённые инструменты§r
