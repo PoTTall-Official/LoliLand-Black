@@ -1,7 +1,7 @@
 container.inventory=§r
 container.crafting=§r
 
-# Разное
+# Misc
 itemGroup.buildingBlocks=§fСтроительные блоки§r
 itemGroup.decorations=§fДекоративные блоки§r
 itemGroup.redstone=§fРедстоун-механика§r
